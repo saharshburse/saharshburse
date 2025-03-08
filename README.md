@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saharshburse&label=Profile%20views&color=0e75b6&style=flat" alt="saharshburse" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working at HashedIn by Deloitte
   
@@ -14,13 +13,13 @@
 
 - 📫 How to reach me **saharshburse@gmail.com**
 
-- ⚡ Fun fact **actually haven't found yet**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saharsh-burse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saharsh-burse" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/saharsh2kjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saharsh2kjain" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/saharshburse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="saharshburse" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/saharshburse" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=4z2zrIWYmGqx&format=png&color=000000" alt="co" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/uGsD0dgHyj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saharshburse" height="30" width="40" /></a>
 </p>
 
@@ -84,6 +83,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saharshburse&show_icons=true&locale=en&layout=compact" alt="saharshburse" /></p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=saharshburse&show_icons=true&locale=en" alt="saharshburse" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=saharshburse&include_all_commits=true&count_private=true&show_icons=true&line_height=20" alt="my Github Stats"/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saharshburse&" alt="saharshburse" /></p>
